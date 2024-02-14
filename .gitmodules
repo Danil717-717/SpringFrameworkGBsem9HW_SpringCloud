@@ -4,3 +4,12 @@
 [submodule "sem9HWClient-executor"]
 	path = sem9HWClient-executor
 	url = https://github.com/Danil717-717/sem9HWClient-executor.git
+[submodule "sem9Client-entity"]
+	path = sem9Client-entity
+	url = https://github.com/Danil717-717/sem9Client-entity.git
+[submodule "sem9ApiGateway"]
+	path = sem9ApiGateway
+	url = https://github.com/Danil717-717/sem9ApiGateway.git
+[submodule "sem9Client-viewService"]
+	path = sem9Client-viewService
+	url = https://github.com/Danil717-717/sem9Client-viewService.git
